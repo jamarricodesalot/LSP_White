@@ -6,7 +6,6 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author shaneoliver
  * Class IntegerSet defines a multitude of methods which alter the content of an ArrayList.
  * Each method is described in greater detail below.
  * All ArrayLists declared in the TestFile class are objects of the IntegerSet class.
